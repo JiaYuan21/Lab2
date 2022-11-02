@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import statistics
 def main():
     print("ET0735 (DevOps for AIoT - Lab 2 - Introduction to Python")
@@ -45,3 +46,6 @@ def calc_median_temperature(num_list):
 
 if __name__ == "__main__":
     main()
+=======
+print("ET0735 (DevOps for AIoT) - Lab 2 - Introduction to Python")
+>>>>>>> 355b220661bb63947facae46a65625b1a942908e
